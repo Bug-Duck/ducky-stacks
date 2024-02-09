@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "setup": [
+    {
+      "fn": "create-file",
+      "name": "hello-world.txt"
+    },
+    {
+      "fn": "write-file",
+      "name": "Hello world!"
+    }
+  ]
+}
