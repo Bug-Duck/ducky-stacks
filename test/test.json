@@ -7,6 +7,7 @@
     },
     {
       "fn": "write-file",
+      "name": "hello-world.txt",
       "content": "Hello world!"
     }
   ]
