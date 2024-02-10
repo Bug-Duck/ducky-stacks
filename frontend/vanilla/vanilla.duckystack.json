@@ -1,0 +1,9 @@
+{
+  "name": "vanilla",
+  "setup": [
+    {
+      "fn": "echo",
+      "content": "[green]Ok, you has choose vanilla[/green]"
+    }
+  ]
+}

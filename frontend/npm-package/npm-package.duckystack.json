@@ -1,0 +1,22 @@
+{
+  "name": "npm-package",
+  "setup": [
+    {
+      "fn": "run",
+      "command": "npm init"
+    },
+    {
+      "fn": "select",
+      "options": [
+        {
+          "option": "vanilla",
+          "deliver": "./frontend/vanilla/vanilla.duckystack.json"
+        },
+        { 
+          "option": "Vue",
+          "deliver": "./frontend/vue/vue.js.vite.duckystack.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,5 @@
 {
-  "Test": "./test/test.json"
+  "frontend": {
+    "npm": "./frontend/npm-package/npm-package.duckystack.json"
+  }
 }

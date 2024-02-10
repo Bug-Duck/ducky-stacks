@@ -1,0 +1,9 @@
+{
+  "name": "vue",
+  "setup": [
+    {
+      "fn": "run",
+      "command": "npm init vite@latest {project_name} --template vue-ts"
+    }
+  ]
+}
