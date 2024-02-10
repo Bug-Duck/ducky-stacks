@@ -9,7 +9,7 @@
       "fn": "select",
       "options": [
         {
-          "option": "vanilla",
+          "option": "Vanilla",
           "deliver": "./frontend/vanilla/vanilla.duckystack.json"
         },
         { 
